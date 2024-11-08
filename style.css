@@ -27,6 +27,7 @@ body{
     .container{
         width: 480px;
         height: auto;
+    }
 }
 .container h2{
     text-align: center;
